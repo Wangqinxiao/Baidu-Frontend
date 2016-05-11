@@ -1,4 +1,6 @@
-＊仅适用于mac
+＊适用于macbook
+＊因为比较懒，所以尽量简单
+＊如有不懂之处请联系QQ／微信1347580417 ；微博：超级无敌王勤晓
 
 1. 访问www.mysql.com
 
@@ -17,4 +19,5 @@ PATH="$PATH":/usr/local/mysql/bin
 
 8. SELECT VERSION(), CURRENT_DATE;    （测试是否成功）
 
-＊ 访问官方文档里的快速入门部分，很好的教程https://dev.mysql.com/doc/refman/5.7/en/tutorial.html
+＊ 进一步尝试可以访问官方文档里的快速入门部分，很好的教程https://dev.mysql.com/doc/refman/5.7/en/tutorial.html
+HAVE FUN！
