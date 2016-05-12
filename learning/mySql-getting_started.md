@@ -19,5 +19,14 @@ PATH="$PATH":/usr/local/mysql/bin
 
 8. SELECT VERSION(), CURRENT_DATE;    （测试是否成功）
 
+
+常见命令：
+查看所有数据库：show databases;
+查看当前用户：SELECT user();
+查看当前数据库：select database();
+新建用户： create user '用户名'@'localhost或者远程服务器名' IDENTIFIED BY '密码';
+切换数据库： USE 数据库名
+
+
 ＊ 进一步尝试可以访问官方文档里的快速入门部分，很好的教程https://dev.mysql.com/doc/refman/5.7/en/tutorial.html
 HAVE FUN！
